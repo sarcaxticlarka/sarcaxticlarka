@@ -34,7 +34,6 @@
 
 ```javascript
 const sajjan = {
-    pronouns: "he" | "him",
     location: "India 🇮🇳",
     education: {
         university: "Newton School of Technology",
@@ -46,7 +45,7 @@ const sajjan = {
     askMeAbout: [
         "Web Development",
         "GSAP Animations", 
-        "React/Next.js",
+        "React/Next.js/Nodejs",
         "UI/UX Motion Design"
     ],
     funFact: "I built my own animation library from scratch! 🎬",
