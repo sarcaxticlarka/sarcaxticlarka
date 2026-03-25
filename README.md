@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Md%20Sajjan&fontSize=40&fontColor=fff"/>
 
-<h3 align="center">🚀 Web Developer | 🎬 Animation Specialist | ⚡ Creative Engineer</h3>
+<h3 align="center">🚀 Full Stack Engineer | 🎨 Frontend Specialist | ⚡ Performance-Driven Developer</h3>
 
 <p align="center">
-Turning static designs into smooth, high-performance digital experiences.
+Building scalable systems with powerful backend logic — and delivering them through stunning, high-performance UIs.
 </p>
 
 ---
@@ -12,21 +12,49 @@ Turning static designs into smooth, high-performance digital experiences.
 
 - 🇮🇳 Based in India  
 - 🎓 B.Tech CSE @ Newton School of Technology (2024–2028)  
-- 🎯 Focus: **Frontend + Animations (60fps mindset)**  
-- 🧠 Exploring: **Three.js, WebGL, Advanced React, Gen AI**  
-- 🎬 Built my own animation library from scratch  
+- 🎯 Core Strength: **Frontend Engineering (Pixel Perfect + 60fps UX)**  
+- ⚙️ Strong In: **Full Stack, DSA, System Design, Data Analytics**  
+- 🧠 Exploring: **Advanced React, Three.js, WebGL, Gen AI**  
+- 🎬 Built my own **animation engine from scratch**
 
 ---
 
-## ⚡ What I Do Best
+## 🔥 What Makes Me Different
 
-- 🎨 **UI + Motion Design** (GSAP, Framer Motion)
-- ⚛️ **Frontend Dev** (React, Next.js, TypeScript)
-- 🚀 **Performance Optimization**
-- 🧠 **Problem Solving (DSA)**
-- 📊 **Data Analytics & Visualization**
-- 🤖 **Gen AI Integrations**
-- 🏗️ **System Design (Scalable Apps)**
+- 🎨 **Frontend Specialist** → Smooth, responsive, production-grade UI  
+- ⚡ **Performance First Mindset** → Optimized rendering, minimal lag  
+- 🧠 **Strong Problem Solver** → DSA + real-world logic building  
+- 🏗️ **System Thinker** → Scalable architecture & clean design patterns  
+- 📊 **Data-Oriented Approach** → Analytics + visualization insights  
+- 🤖 **AI Integrator** → Practical Gen AI applications  
+
+---
+
+## ⚡ Core Skills
+
+### 🎨 Frontend (My Edge 🚀)
+- React, Next.js, TypeScript  
+- GSAP, Framer Motion, Three.js  
+- Advanced UI/UX + Animations (60fps mindset)
+
+### ⚙️ Backend & Full Stack
+- Node.js, Express  
+- MongoDB  
+- REST APIs & scalable architecture  
+
+### 🧠 Computer Science
+- Data Structures & Algorithms (DSA)  
+- System Design (HLD + LLD)  
+- Problem Solving  
+
+### 📊 Data & Analytics
+- Data Analysis  
+- Data Visualization  
+- Insight-driven development  
+
+### 🤖 AI & Tools
+- Generative AI APIs  
+- Git, Docker, Vercel  
 
 ---
 
@@ -34,43 +62,31 @@ Turning static designs into smooth, high-performance digital experiences.
 
 - 🚀 20+ Hackathons  
 - 💼 10+ Freelance Projects  
-- ⚡ Built custom animation engine (Zing)  
-- 🎯 Focused on smooth UX & real-world impact  
+- ⚡ Built **Zing — Custom Animation Engine (~12KB, 60fps)**  
+- 🎯 Focused on **real-world scalable products**
 
 ---
 
 ## 🚀 Featured Work
 
 ### 🎨 Zing — Custom Animation Library
-- ⚡ 60fps optimized  
+- ⚡ Ultra-fast (60fps optimized)  
 - 📦 Lightweight (~12KB)  
-- 🎯 Custom easing & plugin system  
+- 🎯 Custom easing + plugin system  
 
 ### 🎓 Bootcamp Platform
-- Built full-stack learning platform  
-- Responsive + interactive UI  
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, Next.js, TypeScript  
-**Animation:** GSAP, Framer Motion, Three.js  
-**Backend:** Node.js, Express, MongoDB  
-**Core CS:** DSA, System Design  
-**Data:** Data Analytics, Visualization  
-**AI:** Generative AI (APIs, Integrations)  
-**Tools:** Git, Docker, Vercel  
+- Full-stack scalable learning platform  
+- Interactive UI + clean architecture  
 
 ---
 
 ## 💡 Philosophy
 
-> Animation is not decoration — it's communication.
+> “Great software is not just functional — it feels fast, intuitive, and alive.”
 
-- ⚡ Performance First  
-- 🎯 Purpose-Driven Design  
-- 🔨 Learn by Building  
+- ⚡ Performance > Everything  
+- 🎯 UI is a competitive advantage  
+- 🔨 Build → Break → Optimize → Repeat  
 
 ---
 
