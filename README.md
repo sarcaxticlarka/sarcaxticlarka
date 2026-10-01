@@ -1,79 +1,76 @@
-# Hello Everyone! 👋
+# Hey, I'm Sajjan 👋
 
-I'm **Md Sajjan**. A Full Stack Engineer passionate about creating high-performance web experiences. I love designing websites and coding them... Learning things ✨
+CS & AI student at **Newton School of Technology**.  
+I also study **Entrepreneurship**, which is probably why I rarely look at a project as *just a coding project*.
 
----
+I like figuring out the whole thing — the problem, the data, the users, the product, and then the code.
 
-## 💻 Languages & Frameworks
+I've been freelancing and building things since before college. A lot of my learning has basically been:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+**build → break → google → fix → ship → repeat**
 
-## 🗄️ Databases & Backend
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## 🤖 AI & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Machine Learning
-
-![Linear Regression](https://img.shields.io/badge/Linear_Regression-4285F4?style=for-the-badge)
-![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-34A853?style=for-the-badge)
-![Decision Trees](https://img.shields.io/badge/Decision_Trees-FBBC04?style=for-the-badge)
-![Neural Networks](https://img.shields.io/badge/Neural_Networks-EA4335?style=for-the-badge)
-![RNN](https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge)
-![MLP](https://img.shields.io/badge/MLP-9334E6?style=for-the-badge)
-
-### Gen AI & NLP
-
-![LLMs](https://img.shields.io/badge/Large_Language_Models-10A37F?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-0078D4?style=for-the-badge)
-![Word Embeddings](https://img.shields.io/badge/Word_Embeddings-00A67E?style=for-the-badge)
-![Tokenization](https://img.shields.io/badge/Tokenization-FF4088?style=for-the-badge)
-![Responsible AI](https://img.shields.io/badge/Responsible_AI-7B68EE?style=for-the-badge)
+Right now, I spend most of my time somewhere between **AI, full-stack development, data, and product ideas**.
 
 ---
 
-## 🛠️ Tools & Software
+## things I work with
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+**web**  
+React · Next.js · Node.js · Express · TypeScript · JavaScript · Tailwind · GSAP
+
+**AI / ML**  
+Python · PyTorch · TensorFlow · Scikit-learn · LLMs · RAG · AI Agents · LangChain · LangGraph
+
+**data**  
+Pandas · NumPy · SQL · Data Analysis · Machine Learning · Jupyter
+
+**mobile**  
+React Native
+
+**databases**  
+MongoDB · PostgreSQL · MySQL · Firebase · Prisma
+
+**other things I use a lot**  
+Git · GitHub · Figma · VS Code
 
 ---
 
+## beyond the code
 
-## 📫 Connect With Me
+One thing I've realised while building for clients, startups, bootcamps and different organisations is that writing the code is only one part of building something useful.
 
-<p align="center">
-  <a href="mailto:msajjan02@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/md-sajjan-b56591341/">💼 LinkedIn</a> •
-  <a href="https://underxcore.netlify.app">🌐 Portfolio</a>
-</p>
+My Entrepreneurship minor made me think more about questions like:
+
+> Who actually needs this?  
+> What problem are we solving?  
+> Can this become a real product?  
+> And how do we get people to actually use it?
+
+So I enjoy moving between **engineering, AI, data, UI, product and growth** instead of putting myself in one box.
+
+And yes, frontend is still one of my favourite places to be. I like making things that **work well and look good**.
 
 ---
 
-<p align="center">
-  ⭐ <i>If you like my work, consider starring my repositories!</i>
-</p>
+## lately...
+
+I'm learning, building and experimenting with:
+
+`AI Agents` · `LLMs` · `RAG` · `Data & ML` · `Full Stack` · `Developer Tools` · `Product` · `Entrepreneurship`
+
+Usually there's also some random side project open in another tab :)
+
+---
+
+## find me around the internet
+
+🌐 **Portfolio** — [underxcore.netlify.app](https://underxcore.netlify.app)
+
+💼 **LinkedIn** — [md-sajjan-b56591341](https://linkedin.com/in/md-sajjan-b56591341/)
+
+🐙 **GitHub** — [sarcaxticlarka](https://github.com/sarcaxticlarka)
+
+📬 **Email** — msajjan02@gmail.com
+
+
+*still learning. still building.*
