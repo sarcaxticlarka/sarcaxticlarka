@@ -66,7 +66,7 @@ Usually there's also some random side project open in another tab :)
 
 🌐 **Portfolio** — [underxcore.netlify.app](https://underxcore.netlify.app)
 
-💼 **LinkedIn** — [[md-sajjan-b56591341]([https://linkedin.com/in/md-sajjan-b56591341](https://www.linkedin.com/in/md-sajjan-02ba39431/)/](https://www.linkedin.com/in/md-sajjan-02ba39431/))
+💼 **LinkedIn** — [md-sajjan-b56591341](https://www.linkedin.com/in/md-sajjan-02ba39431/)
 
 🐙 **GitHub** — [sarcaxticlarka](https://github.com/sarcaxticlarka)
 
